@@ -353,6 +353,14 @@ footer {
 #footer-nav li{
     line-height: 40px;
     padding-left: 0px; }
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    width: 150px;}
+
+.footer-icons a{
+    padding-right: 10px;}
 }
 
 
